@@ -1,0 +1,11 @@
+1. Que tipo de errores se presentaron o se pueden presentar con su implementacion al
+problema?
+R/Fueron bastantes variados, como es notable en la solucion del problema no soy un experto cuando se trata
+de programar pero principalmente fueron errores de cosas mal identadas y la falta de ideas... a ratos no 
+era capaz ni de continuar del (def) porque no consistia en simplemente presentar una chorrada, en ocasiones 
+confundia hasta las propias variables que yo habia creado volviendo mi codigo un enredo en su totalidad
+
+2. Que estrategias podria usar para solucionar estos errores?
+R/ Simple paciencia y dar nombres originales a cada variable, que tenga que ver realmente con su funcion 
+darle un buen uso al contexto y mas que todo organizar cada prioridad dependiendo del tipo de trabajo, en
+este caso era primordial darle importancia al codigo de cada producto
